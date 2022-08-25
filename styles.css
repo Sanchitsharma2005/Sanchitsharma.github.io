@@ -379,7 +379,7 @@ a {
   }
 }
 
-.resume__section {
+/* .resume__section {
   padding-top: 50px;
   margin: 50px 50px;
   border-radius: 20px;
@@ -581,16 +581,16 @@ a {
 
 .icon__item.svelte :hover {
   transform: scale(1);
-}
+} */
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .tech__container h1 {
     font-size: 18px;
   }
   .icon__item {
     font-size: 300%;
   }
-}
+} */
 
 .sticky__footer {
   background-color: var(--darker-bg);
