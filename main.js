@@ -1,6 +1,6 @@
 // typed js
 const typed = new Typed(".typing", {
-  strings: ["Finance Enthusiast💰","Learner.", "Web Developer."],
+  strings: ["Finance Enthusiast💰.","Web Developer💻."],
   loop: true,
   typeSpeed: 80,
   backSpeed: 40,
