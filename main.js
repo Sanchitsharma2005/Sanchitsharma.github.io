@@ -9,19 +9,20 @@ const typed = new Typed(".typing", {
 // Theme changer
 const themes = [
   "#FFDB58",
-  "#008080",
-  "#9affe1",
-  "#abff9a",
-  "#ff9a9a",
-  "#f5ff9a",
-  "#9aadff",
-  "#ffd280",
-  "#adff6b",
-  "#6bfaff",
-  "#55F7DD",
-  "#7BF774",
-  "#F770F4",
-  "#E2F780"
+  // "#008080",
+  // "#9affe1",
+  // "#abff9a",
+  // "#ff9a9a",
+  // "#f5ff9a",
+  // "#9aadff",
+  // "#ffd280",
+  // "#adff6b",
+  // "#6bfaff",
+  // "#55F7DD",
+  // "#7BF774",
+  // "#F770F4",
+  // "#E2F780",
+  //    "#FFFFFF"
 ];
 const root = document.querySelector(":root");
 const themeToggle = document.querySelector("#main-name");
